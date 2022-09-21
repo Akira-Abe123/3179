@@ -25,7 +25,7 @@ Botswana,3.64230522
 Central African Rep.,0.070718706
 Canada,15.49702527
 Switzerland,4.401991044
-Channel Islands,
+Channel Islands,0
 Chile,4.624872245
 China,7.405211347
 Cote d'Ivoire,0.395305384
@@ -38,8 +38,8 @@ Cabo Verde,1.140200528
 Costa Rica,1.652184053
 Caribbean small states,5.017034408
 Cuba,2.202300094
-Curacao,
-Cayman Islands,
+Curacao,0
+Cayman Islands,0
 Cyprus,6.079400502
 Czech Republic,9.640704998
 Germany,8.558389812
@@ -57,28 +57,28 @@ Ethiopia,0.149050931
 Finland,8.04275205
 Fiji,2.150561976
 France,4.619241205
-Faroe Islands,
+Faroe Islands,0
 Gabon,2.175272204
 United Kingdom,5.398708138
 Georgia,2.538541691
 Ghana,0.541201382
-Gibraltar,
+Gibraltar,0
 Guinea,0.251323233
 Gambia,0.249989913
 Guinea-Bissau,0.165394728
 Equatorial Guinea,5.095625096
 Greece,6.08317505
 Grenada,2.691814193
-Greenland,
+Greenland,0
 Guatemala,1.113969273
-Guam,
+Guam,0
 Guyana,3.13219265
 Honduras,1.019032757
 Croatia,4.055928762
 Haiti,0.299374738
 Hungary,4.745506244
 Indonesia,2.178461553
-Isle of Man,
+Isle of Man,0
 India,1.799825446
 Ireland,7.624325193
 Iran,7.693012599
@@ -109,7 +109,7 @@ Lithuania,4.137005929
 Luxembourg,15.33020808
 Latvia,3.959165078
 Morocco,1.850726784
-Monaco,
+Monaco,0
 Moldova,3.171832063
 Madagascar,0.128320761
 Maldives,3.703674976
@@ -121,14 +121,14 @@ Malta,3.198316241
 Myanmar,0.605492803
 Montenegro,4.049968902
 Mongolia,6.725098053
-Northern Mariana Islands,
+Northern Mariana Islands,0
 Mozambique,0.225115201
 Mauritania,0.908407126
 Mauritius,3.264040313
 Malawi,0.086533726
 Malaysia,7.600220413
 Namibia,1.735898378
-New Caledonia,
+New Caledonia,0
 Niger,0.102037038
 Nigeria,0.667110199
 Nicaragua,0.805815233
@@ -145,11 +145,11 @@ Philippines,1.33369096
 Palau,16.19116744
 Papua New Guinea,0.866804457
 Poland,8.235472255
-Puerto Rico,
+Puerto Rico,0
 North Korea,0.709208588
 Portugal,4.840612761
 Paraguay,1.210453778
-French Polynesia,
+French Polynesia,0
 Qatar,32.41563917
 Romania,3.845132759
 Russian Federation,11.12661837
@@ -162,7 +162,7 @@ Singapore,8.399134832
 Solomon Is.,0.566740598
 Sierra Leone,0.133330736
 El Salvador,1.060625411
-San Marino,
+San Marino,0
 Somalia,0.04597479
 Serbia,6.521922194
 South Sudan,0.125729734
@@ -171,10 +171,10 @@ Slovak Republic,6.058635474
 Slovenia,6.774695332
 Sweden,3.538009127
 Eswatini,0.959275668
-Sint Maarten (Dutch part),
+Sint Maarten (Dutch part),0
 Seychelles,6.407474008
 Syria,1.647087511
-Turks and Caicos Islands,
+Turks and Caicos Islands,0
 Chad,0.069131598
 Togo,0.286471389
 Thailand,3.714039204
@@ -196,7 +196,7 @@ Venezuela,4.782754887
 Vietnam,2.698805922
 Vanuatu,0.615016657
 Samoa,1.631587535
-Kosovo,
+Kosovo,0
 Yemen,0.326681763
 South Africa,7.496644895
 Zambia,0.446065443
